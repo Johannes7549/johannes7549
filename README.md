@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yonas 👋</h1>
+<h1 align="center">Hi there, I'm Yohannes 👋</h1>
 <p align="left">I'm a Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
@@ -9,13 +9,9 @@
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yonas_engdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonas_engdu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yonasengdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonasengdu" height="30" width="40" /></a>
-<a href="https://instagram.com/yonasengdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yonasengdu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/engduyonas1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engduyonas1994" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jonass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jonass" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jonass1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jonass1" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonas_engdu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yohannesbekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonasengdu" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yonasengdu" height="30" width="40" /></a>
 
 <h3 align="left">🔭 I’m currently working on:</h3>
 
