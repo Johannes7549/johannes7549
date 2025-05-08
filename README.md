@@ -62,7 +62,3 @@
 
 - flutter
 - Nodejs
-
-
-<h3 align="left">😆 Leaving Note:</h3>
-Beware of the Loki, Thanos, and Ultron in Programming :  Unhandled Exceptions , Premature Optimization and Poor Test Coverage
