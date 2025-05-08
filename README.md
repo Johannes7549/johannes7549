@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Yohannes 👋</h1>
 <p align="left">I'm a Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ffekirnew" alt="ffekirnew" /></a> </p>  -->
-            
->
 
 
 <h3 align="left">📬 Connect with me:</h3>
