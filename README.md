@@ -13,7 +13,7 @@
 
 - My personal project
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="left">🌱 I’m currently working on:</h3>
 
 - Advanced Data Structures and Algorithms ⭐️
 - Advanced C++
