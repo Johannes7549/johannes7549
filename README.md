@@ -1,76 +1,93 @@
-<h1 align="center">Hi there, I'm Yohannes 👋</h1>
-<p align="left">I'm a Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
-    perform specific and powerful tasks. <em>I aspire to become a Machine Learning Engineer</em>.</p>
-
-
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonas_engdu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yohannesbekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonasengdu" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yonasengdu" height="30" width="40" /></a>
-
-<h3 align="left">🔭 I’m currently working on:</h3>
-
-- My personal project
-
-<h3 align="left">🌱 I’m currently working on:</h3>
-
-- Advanced Data Structures and Algorithms ⭐️
-- Advanced C++
-- Kubernetes
-- RabbitMQ
-
-<h3 align="left">🤖 AI & Machine Learning</h3>
-
-<p align="left">
-I am building toward a Machine Learning Engineer role, with most of the recent work on LLM applications in Python.
+<h1 align="center">Yohannes</h1>
+<p align="center">
+  <strong>Software engineer</strong> · websites, desktop tools, and machine learning
 </p>
 
-- Building LLM apps with LangChain: prompts, tools, retrievers, and chains that call into Python services
-- Modeling agent workflows in LangGraph: stateful graphs, branching steps, and multi-step tool use
-- Tracing those runs in LangSmith so a prompt or a graph node can be checked while it is still in development
-- Retrieval-augmented flows with LlamaIndex: chunking, embeddings, and search over my own data, with Qdrant as the vector store
-- Loading models from Hugging Face and running smaller ones locally with Ollama
-- Keeping the classical side going in Jupyter with PyTorch, scikit-learn, pandas, and NumPy
+<p align="center">
+  <a href="https://linkedin.com/in/yohannesbekele" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohannesbekele" height="30" width="40" /></a>
 
+I like software that feels finished. A page with a clear shape. A desktop tool that takes one hard job and does it properly. An API that stays out of the way. Lately that same instinct is pointed at machine learning: models and agents that a real app can call.
 
-<h3 align="left">💼 Technologies I work with on the daily:</h3>
-<!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!--C#-->  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<!--Dotnet--> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<!--Mongo--> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<!--Express--> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<!--Node.js--> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<!--TypeScript--> <a href="https://typescriptlang.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescripts" width="40" height="40"/> </a> 
-<!--Postman--> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!--Postgres--> <a href="https://postgresql.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" alt="postresql" width="40" height="40"/> </a>
-<!--Git--> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!--Bash--> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<!--Linux--> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<!--LangChain--> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
-<!--LangGraph--> <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph.svg" alt="langgraph" width="40" height="40"/> </a>
-<!--LangSmith--> <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langsmith.svg" alt="langsmith" width="40" height="40"/> </a>
-<!--LlamaIndex--> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex.svg" alt="llamaindex" width="40" height="40"/> </a>
-<!--Hugging Face--> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a>
-<!--Ollama--> <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/ollama.svg" alt="ollama" width="40" height="40"/> </a>
-<!--Qdrant--> <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/qdrant" alt="qdrant" width="40" height="40"/> </a>
-<!--PyTorch--> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<h3 align="left">Right now</h3>
 
+- A personal project, built the way I want it built
+- Advanced data structures and algorithms
+- Advanced C++
+- Kubernetes and RabbitMQ
+- The path into machine learning engineering
 
-<h3 align="left">💼 Technologies I am very familiar with:</h3>
-<!--Angular--> <a href="https://angular.io"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<!--JS--> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!--React--> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!--Html--> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!--Css--> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!--Sass--> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<!--jupyter--> <a href="https://jupyter.org/"> <img src="https://www.nicepng.com/png/detail/70-701999_jupyter-logo.png" alt="jupyter" width="40" height="40"/> </a>
-<!--Nest.js--> <a href="https://nestjs.com"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
-<!--Bootstrap--> <a href="https://getbootstrap.com"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap-5" width="40" height="40"/> </a>
-<!--C--> <a href="https://cprogramming.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="c programming language" width="40" height="40"/> </a>
-<!--Java--> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!--Php--> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<!--MySQL--> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<!--Heroku--> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-<!--Django--> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<h3 align="left">What I build</h3>
+
+**Websites, from the layout to the API.** I design and implement the interface, then the service behind it. React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, and Bootstrap on the front. Node.js, Express, and NestJS when the backend should be JavaScript. Django or PHP when the project fits that stack better.
+
+**Desktop programs and sharp little tools.** C# and .NET are the daily tools here. C and C++ when the work wants to sit closer to the machine. Java when that is the right language for the job.
+
+**Data and the machine it runs on.** PostgreSQL, MongoDB, and MySQL. Git, Postman, Bash, and Linux every day. Heroku when something needs to be up quickly. Kubernetes and RabbitMQ are the next layer I am getting fluent in.
+
+**Mobile.** Flutter, which is also what I most want to build with other people.
+
+<h3 align="left">AI and machine learning</h3>
+
+Python is the home base, and Jupyter is where the experiments start. I am aiming at machine learning engineering, with the recent work on LLM applications that plug back into normal software.
+
+- **LangChain** for prompts, tools, retrievers, and chains that call into a Python service
+- **LangGraph** for agent workflows: stateful graphs, branching steps, and multi-step tool use
+- **LangSmith** for tracing a run so a prompt or a graph node can be checked while it is still in development
+- **LlamaIndex** for retrieval: chunking, embeddings, and search over my own data, with **Qdrant** as the vector store
+- **Hugging Face** for models, and **Ollama** when a smaller model should run locally
+- The classical side, still in the notebook: **PyTorch**, scikit-learn, pandas, and NumPy
+
+<p align="left">
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain.svg" alt="langchain" width="40" height="40"/></a>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph.svg" alt="langgraph" width="40" height="40"/></a>
+<a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langsmith.svg" alt="langsmith" width="40" height="40"/></a>
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex.svg" alt="llamaindex" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface.svg" alt="huggingface" width="40" height="40"/></a>
+<a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/ollama.svg" alt="ollama" width="40" height="40"/></a>
+<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/qdrant" alt="qdrant" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Every day</h3>
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Also in the toolbox</h3>
+
+<p align="left">
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Open to collaborate</h3>
+
+Flutter and Node.js first. I also want partners for LLM apps: a LangGraph flow, a retrieval pipeline, or a model served behind an API.
+
+<p align="left"><em>Aspiring machine learning engineer. Still a software engineer who ships the whole thing.</em></p>
