@@ -1,6 +1,9 @@
 <h1 align="center">Yohannes</h1>
 <p align="center">
-  <strong>Software engineer</strong> · websites, desktop tools, and machine learning
+  <strong>Software engineer</strong><br/>
+  Websites with a point of view.<br/>
+  Desktop tools built to do one powerful job.<br/>
+  AI with a shift to work — agents, retrieval, and models that live in the product.
 </p>
 
 <p align="center">
