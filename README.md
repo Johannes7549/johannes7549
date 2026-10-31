@@ -20,6 +20,19 @@
 - Kubernetes
 - RabbitMQ
 
+<h3 align="left">🤖 AI & Machine Learning</h3>
+
+<p align="left">
+I am building toward a Machine Learning Engineer role, with most of the recent work on LLM applications in Python.
+</p>
+
+- Building LLM apps with LangChain: prompts, tools, retrievers, and chains that call into Python services
+- Modeling agent workflows in LangGraph: stateful graphs, branching steps, and multi-step tool use
+- Tracing those runs in LangSmith so a prompt or a graph node can be checked while it is still in development
+- Retrieval-augmented flows with LlamaIndex: chunking, embeddings, and search over my own data, with Qdrant as the vector store
+- Loading models from Hugging Face and running smaller ones locally with Ollama
+- Keeping the classical side going in Jupyter with PyTorch, scikit-learn, pandas, and NumPy
+
 
 <h3 align="left">💼 Technologies I work with on the daily:</h3>
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -34,6 +47,14 @@
 <!--Git--> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!--Bash--> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <!--Linux--> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<!--LangChain--> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
+<!--LangGraph--> <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph.svg" alt="langgraph" width="40" height="40"/> </a>
+<!--LangSmith--> <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langsmith.svg" alt="langsmith" width="40" height="40"/> </a>
+<!--LlamaIndex--> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex.svg" alt="llamaindex" width="40" height="40"/> </a>
+<!--Hugging Face--> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a>
+<!--Ollama--> <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/ollama.svg" alt="ollama" width="40" height="40"/> </a>
+<!--Qdrant--> <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/qdrant" alt="qdrant" width="40" height="40"/> </a>
+<!--PyTorch--> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
 
 
 <h3 align="left">💼 Technologies I am very familiar with:</h3>
@@ -53,8 +74,3 @@
 <!--Heroku--> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 <!--Django--> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-
-<h3 align="left">⚡️ I’m looking to collaborate on:</h3>
-
-- flutter
-- Nodejs
