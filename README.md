@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Software engineer</strong><br/>
   Give me a blank page, a stubborn desktop problem, or an AI model that still lives in a notebook.<br/>
-  I will turn it into software someone can run — a site, a desktop tool, or an agent that retrieves and ships.
+  I will turn it into software someone can run, a site, a desktop tool, or an agent that retrieves and ships.
 </p>
 
 <p align="center">
